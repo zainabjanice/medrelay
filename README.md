@@ -11,7 +11,7 @@
 ---
 
 ## 🚨 Problem Statement
-
+<!-- Uploading "Capture d'écran 2025-12-24 185447.png"... -->
 Healthcare systems suffer from:
 - Delayed referrals between specialists  
 - Fragmented patient data  
