@@ -171,3 +171,11 @@ flutter run
 - Bias-aware prompt engineering
 
 - Clinical responsibility remains with physicians
+
+## 👩‍💻 Authors
+
+Zainab Jamil & Fatima Zahrae Boukentar
+
+## 📄 License
+
+MIT License — open for research, innovation, and responsible use.
