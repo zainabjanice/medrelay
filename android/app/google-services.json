@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "68283766886",
+    "project_id": "medrelay-ai",
+    "storage_bucket": "medrelay-ai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68283766886:android:203feca72605e63282f5a7",
+        "android_client_info": {
+          "package_name": "com.example.medrelay_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaScWjDyQ8Bqv5AJueit6PJDB9SRnG2z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

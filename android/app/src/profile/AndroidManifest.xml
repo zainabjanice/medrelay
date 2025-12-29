@@ -1,0 +1,22 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.medrelay_ai">
+
+    <!-- Permission Internet (pour debug / hot reload) -->
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <!-- Permissions biométriques -->
+    <uses-permission android:name="android.permission.USE_BIOMETRIC"/>
+    <uses-permission android:name="android.permission.USE_FINGERPRINT"/>
+
+    <!-- Indiquer que la biométrie est optionnelle -->
+    <uses-feature android:name="android.hardware.fingerprint" android:required="false"/>
+
+    <application
+        android:name="${applicationName}"
+        android:label="MedRelay AI"
+        android:icon="@mipmap/ic_launcher">
+
+        <!-- ton reste de configuration (activity, etc.) -->
+
+    </application>
+</manifest>
