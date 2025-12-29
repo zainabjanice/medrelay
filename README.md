@@ -8,10 +8,36 @@
 ![Status](https://img.shields.io/badge/Status-Active%20Development-green)
 
 
+
 ---
+<table>
+  <tr>
+    <td width="60%" valign="top">
+
+## 🧠 Project Overview
+
+**MediRelay AI** is an intelligent healthcare referral and patient management platform designed to assist clinicians in making faster, safer, and more informed medical decisions.
+
+The system integrates **AI-driven clinical reasoning**, **secure patient data management**, and **smart referral workflows** to optimize coordination between general practitioners and specialists. Using large language models, MediRelay AI analyzes symptoms, suggests diagnostic hypotheses, and recommends appropriate specialists while keeping the physician in full control.
+
+Built with **Flutter** and powered by **Firebase**, the platform is cross-platform, secure, and scalable, following a **human-in-the-loop** medical AI philosophy.
+
+  </td>
+  <td width="40%" align="right" valign="top">
+
+<img 
+  src="https://github.com/zainabjanice/medrelay/blob/da59d88013446bd722bb9f0de77f218d76cd8e12/Capture%20d'%C3%A9cran%202025-12-24%20185447.png"
+  alt="MediRelay AI Dashboard"
+  width="660"
+/>
+
+  </td>
+  </tr>
+</table>
+
+
 
 ## 🚨 Problem Statement
-<!-- Uploading "Capture d'écran 2025-12-24 185447.png"... -->
 Healthcare systems suffer from:
 - Delayed referrals between specialists  
 - Fragmented patient data  
